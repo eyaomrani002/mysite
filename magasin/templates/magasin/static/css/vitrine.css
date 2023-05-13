@@ -1,0 +1,22 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  figure {
+    margin: 0;
+  }
+  
+  figcaption {
+    font-weight: bold;
+  }
+  
+  a {
+    margin-right: 10px;
+  }
+  
